@@ -2,7 +2,7 @@ require File.expand_path('../lib/css-social-buttons-rails/version', __FILE__)
 
 Gem::Specification.new do |gem|
   gem.name        = "css-social-buttons-rails"
-  gem.version     = CssSocialButtonsRails::VERSION
+  gem.version     = CssSocialButtonsRails::Rails::VERSION
   gem.authors     = ["Yuva Kumar"]
   gem.email       = ["yuva@codemancers.com"]
   gem.homepage    = "https://github.com/iffyuva/css-social-buttons-rails"
