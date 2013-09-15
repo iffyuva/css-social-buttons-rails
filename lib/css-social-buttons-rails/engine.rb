@@ -1,5 +1,6 @@
 module CssSocialButtonsRails
-  class Engine < ::Rails::Engine
-    isolate_namespace CssSocialButtonsRails
+  module Rails
+    class Engine < ::Rails::Engine
+    end
   end
 end

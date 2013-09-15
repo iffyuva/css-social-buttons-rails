@@ -7,3 +7,4 @@ test/dummy/tmp/
 test/dummy/.sass-cache
 vendor/ruby/
 css-social-buttons-rails*.gem
+Gemfile.lock
