@@ -1,4 +1,2 @@
-require "css-social-buttons-rails/engine"
-
-module CssSocialButtonsRails
-end
+require "css-social-buttons-rails/version"
+require "css-social-buttons-rails/engine" if defined?(::Rails)
